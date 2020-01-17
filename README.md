@@ -1,5 +1,5 @@
 # data_analysis
-Sample notebooks for data analysis
+Notebooks for data analysis 
 
 
 1) Feature Engineering --> Tweet Analysis
