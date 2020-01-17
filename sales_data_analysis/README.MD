@@ -11,10 +11,15 @@ Files:
 
 
 Data: Book1.xlsx
+
 Results and Strategies: result_strategies.pptx
+
 CODE: SALES_DATA_CHALLENGE.ipynb
+
 CODE_HTML: SALES_DATA_CHALLENGE.html
+
 graphs: results_images (folder)
+
 US_GEO_DATA: states_21_basic (folder)
 
 
