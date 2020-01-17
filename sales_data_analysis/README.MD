@@ -6,6 +6,7 @@ sources of depreciation. Also illustrating some geo visualization of regions wit
 
 
 
+----------------------------------------------------------------------------------------
 
 Files: 
 
@@ -23,6 +24,8 @@ graphs: results_images (folder)
 US_GEO_DATA: states_21_basic (folder)
 
 
+
+----------------------------------------------------------------------------------------
 DATA DESCRIPTION
 
 DATE:                Date payment made;
