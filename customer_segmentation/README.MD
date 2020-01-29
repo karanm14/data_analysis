@@ -36,7 +36,7 @@ Devised Strategies:
 5) Strategy for group 5: They have high income and high spending scores. These are our consistent customers and to keep them consistent we need to make them believe that we care for them, by giving loyalty points, 24x7 customer service, free return policies, b'day gifts etc.
 ------------------------------------------------------------------------------------------------------------------
 
-Code in Customer_Segmentation.ipynb
+Code in Customer_Segmentation.ipynb 
 
 ------------------------------------------------------------------------------------------------------------------
 Dataset Description: Mall_Customers.csv
