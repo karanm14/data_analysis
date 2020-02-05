@@ -1,1 +1,1 @@
-Involves projects which I worked on to perform KPI evaluation, segmenting the customers using RFM Analysis, exploring the customer churn/retention rate using cohort analysis and finally devising strategies to market.
+Involves projects which I worked on to perform KPI evaluation, segmenting the customers using RFM Analysis, exploring the customer churn/retention rate using cohort analysis. I also predicted the sales using time series analysis and finally devised strategies to market.
