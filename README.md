@@ -6,7 +6,7 @@ Notebooks for data analysis
 2) Exploratory Data Analysis (Geo Pandas) and Data Visualization --> [Sales Data Analysis](https://github.com/karanm14/data_analysis/tree/master/sales_data_analysis), also involves evaluating Key Performance Indicators
 3) End to End ML Case Study (involves data cleaning, data wrangling, data visualization, feature engineering, model selection and hyper parameter tuning, results and insights) --> [Heart Disease Prediction](https://github.com/karanm14/data_analysis/tree/master/heart_disease_prediction)
 4) ML Case Study using unsupervised learning as well to extract features--> [Auto Insurance Claim Prediction](https://github.com/karanm14/data_analysis/tree/master/auto_insurance_claim_prediction)
-5) [Marketing Analytics 101](https://github.com/karanm14/data_analysis/tree/master/marketing_analytics)
+5) [Marketing Analytics 101](https://github.com/karanm14/data_analysis/tree/master/marketing_analytics) (includes evaluating KPIs, segmenting customers (RFM, Lifetime Value, Churn Rate), simulating A/B testing, product recommender system and time series analysis)
 6) [K Means Clustering and PCA a primer](https://github.com/karanm14/data_analysis/tree/master/customer_segmentation)
 
 - For Exploratory Data Analysis tutorial check out the Jupyter Notebooks: 1) Energy Star Prediction inspired by Will Koehrsen; 2) Titanic inspired by jkarakas 
