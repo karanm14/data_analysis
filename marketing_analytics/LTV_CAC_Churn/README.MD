@@ -3,7 +3,7 @@
 
 Predicted Lifetime Value (LTV) and next purchase of a customer using several machine learning classification models. Found out customer churn and created a nearest-neighbor based product recommender system to devise marketing strategies and offers.
 
-[Find the code]
+[Find the code](https://github.com/karanm14/data_analysis/blob/master/marketing_analytics/LTV_CAC_Churn/LTV%20%7C%20RFM%20%7C%20Churn%20%7C%20AB.ipynb)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
