@@ -4,7 +4,7 @@ Involves projects which I worked on to perform KPI evaluation, segmenting the cu
 # 1) #
 Analyzed customer information data using several marketing analytics principles. Found the customer retention and customer churn rates using cohort analysis. Performed RFM analysis and then devised several marketing strategies to increase the retention and decrease the churn rate.
 
-[Find the code at:](https://github.com/karanm14/data_analysis/blob/master/marketing_analytics/customer_segmentation/Cohort_RFMA/Cohort%20Analysis%20%7C%20RFM%20Analysis.ipynb)
+[Find the code](https://github.com/karanm14/data_analysis/blob/master/marketing_analytics/customer_segmentation/Cohort_RFMA/Cohort%20Analysis%20%7C%20RFM%20Analysis.ipynb)
 
 ------------------------------------------------------------------------------------------------------------------------------
 
@@ -24,7 +24,7 @@ Columns: InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, Cu
 # 2) #
 
 Performed descriptive, predictive and prescriptive analysis on retail sales data in order to extract data driven insights. Evaluated the Key Performance Indicators (KPIs). Performed RFM Analysis (recency, frequency, monetary) to segment the customers into different categories. Predicted sales revenue using time series analysis (ARIMA).
-[Find the code at:](https://github.com/karanm14/data_analysis/blob/master/marketing_analytics/customer_segmentation/RFM_TSA/RFM%20Analysis%201.ipynb)
+[Find the code](https://github.com/karanm14/data_analysis/blob/master/marketing_analytics/customer_segmentation/RFM_TSA/RFM%20Analysis%201.ipynb)
 
 KPIs analyzed 
 Annual Revenue
