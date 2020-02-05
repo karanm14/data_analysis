@@ -9,9 +9,12 @@ Monthly Active Customers
 Average Sales per Order
 New Customers Growth Rate
 
+
+[Find the code](https://github.com/karanm14/data_analysis/blob/master/marketing_analytics/customer_segmentation/RFM_TSA/RFM%20Analysis%201.ipynb)
+
 ------------------------------------------------------------------------------------------------------------------------------
 
-Dataset description (https://www.kaggle.com/kyanyoga/sample-sales-data)
+[Dataset description](https://www.kaggle.com/kyanyoga/sample-sales-data)
 Dataset represent sales information for a wholesale giant. 
 
 
@@ -21,4 +24,4 @@ Columns: ORDERNUMBER, QUANTITYORDERED, PRICEEACH, ORDERLINENUMBER, SALES, ORDERD
 ------------------------------------------------------------------------------------------------------------------------------
 
 
-I've done a similar project https://github.com/karanm14/data_analysis/blob/master/customer_segmentation/Customer_Segmentation.ipynb where I have also used K Means clustering to segment customers and devise strategies based on minimal customer information.
+I've done a similar [project](https://github.com/karanm14/data_analysis/blob/master/customer_segmentation/Customer_Segmentation.ipynb) where I have also used K Means clustering to segment customers and devise strategies based on minimal customer information.
